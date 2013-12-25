@@ -1,0 +1,17 @@
+{
+  "uuid": "66ebc412-18c2-4ff9-9a82-de3d8c01c049",
+  "shortName": "TideWatchJS",
+  "longName": "TideWatchJS",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
